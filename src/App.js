@@ -2,7 +2,7 @@ import React from 'react'
 import {Navbar} from './Components/Navbar.js'
 import './App.css';
 import { Hero } from './Components/Hero.js';
-import { Items } from './Components/Items.js';
+import Items from './Components/Items.js';
 import {Static} from './Components/Static.js';
 import {Static2} from './Components/Static2.js';
 import Customer from './Components/Customer.js';
